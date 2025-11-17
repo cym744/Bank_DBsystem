@@ -18,4 +18,4 @@ Bank_DBsystem/
 │  
 └── README.md   
 
-📌 My code builds upon this link, and I am grateful for their contributions.I modified some code while increasing the data volume and adding several features and functions.
+📌 My code builds upon this link https://github.com/gmgyan/Bank-Database-Design_MS-SQL, and I am grateful for their contributions.I modified some code while increasing the data volume and adding several features and functions.
