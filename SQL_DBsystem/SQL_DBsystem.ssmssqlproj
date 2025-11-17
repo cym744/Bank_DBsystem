@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQL_DBsystem">
+  <Items>
+    <LogicalFolder Name="连接" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="LAPTOP-AE3P5C9J:LAPTOP-AE3P5C9J\cym">
+          <Created>2025-11-17T11:03:33.2127637+08:00</Created>
+          <Type>SQL</Type>
+          <Server>LAPTOP-AE3P5C9J</Server>
+          <UserName />
+          <Authentication>Windows 身份验证</Authentication>
+          <InitialDB>dbBankGM</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查询</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="查询" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Database and Table Structure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Database and Table Structure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="demo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-AE3P5C9J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-AE3P5C9J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>demo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Main_Database and Table Structure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-AE3P5C9J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-AE3P5C9J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Main_Database and Table Structure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Monthly Interest Settlement.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-AE3P5C9J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-AE3P5C9J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Monthly Interest Settlement.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Overdraft Automatic Recording.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-AE3P5C9J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-AE3P5C9J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Overdraft Automatic Recording.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View&amp;Stored Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-AE3P5C9J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-AE3P5C9J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View&amp;Stored Procedure.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="杂项" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
